@@ -1,0 +1,9 @@
+{"name":"Flytrap","type":"Subtropical","species":"Dionaea","isCarnivorous":"True","gardenZone":"north"}
+{"name":"Pitcher plants","type":"Subtropical","species":"Nepenthaceae","isCarnivorous":"True","gardenZone":"north"}
+{"name":"Asplenium","type":"Subtropical","species":"Epiphytic","isCarnivorous":"False","gardenZone":"south"}
+{"name":"Papyrus sedge","type":"Aquatic","species":"Cyperaceae","isCarnivorous":"False","gardenZone":"south"}
+{"name":"Magnolia","type":"Land","species":"Plantae","isCarnivorous":"False","gardenZone":"west"}
+{"name":"Orchid","type":"Land","species":"Plantae","isCarnivorous":"False","gardenZone":"west"}
+{"name":"Dahlia","type":"Land","species":"Plantae","isCarnivorous":"False","gardenZone":"east"}
+{"name":"Rose","type":"Aqua","species":"Plantae","isCarnivorous":"False","gardenZone":"east"}
+{"name":"1","type":"23","species":"3431","isCarnivorous":"45","gardenZone":"5"}

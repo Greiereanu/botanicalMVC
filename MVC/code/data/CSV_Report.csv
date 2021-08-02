@@ -1,0 +1,10 @@
+Name,Type,Species,IsCarnivorous,Zone
+Flytrap,Subtropical,Dionaea,True,north
+Pitcher plants,Subtropical,Nepenthaceae,True,north
+Asplenium,Subtropical,Epiphytic,False,south
+Papyrus sedge,Aquatic,Cyperaceae,False,south
+Magnolia,Land,Plantae,False,west
+Orchid,Land,Plantae,False,west
+Dahlia,Land,Plantae,False,east
+Rose,Aqua,Plantae,False,east
+1,23,3431,45,5
